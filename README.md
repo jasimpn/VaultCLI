@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python password_manager_plain.py
+python password_manager.py
 ```
 
 You'll be prompted to sign up or log in. Once logged in, you can:
